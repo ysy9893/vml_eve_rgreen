@@ -1,22 +1,22 @@
 # Paper Study
 
+---
+
+Co-written by Soyeon Yoon, Jiyeon Jinnie Jung
+
+Licensed Visual Media Lab @KAIST
+
+---
+
+## Tips
+
+[Tips and Tricks](Paper%20Study%2068e3ebe9fd7a4c5698dd326b5ac62910/Tips%20and%20Tricks%20b0449d21b16840b1b66cf0469ff14411.md)
+
+## Graphics
+
 [Rendering](Paper%20Study%2068e3ebe9fd7a4c5698dd326b5ac62910/Rendering%20e61234380d8e46ae9f82afa31090547f.md)
 
----
-
-import pdb 
-
-pdb.set_trace()
-
-n : next
-
-l: show current code
-
-c: continue until next set trace
-
----
-
-## Table
+## Papers
 
 - **Pix2Pix Isola et al. [[project](https://phillipi.github.io/pix2pix/)][[summary](Paper%20Study%2068e3ebe9fd7a4c5698dd326b5ac62910/pix2pix%208376070f7da54a6bb1a9bc73805df563/pix2pix_summary%20845b8e76a30c443e8980ab30f0de97ae.md)][[notes](Paper%20Study%2068e3ebe9fd7a4c5698dd326b5ac62910/pix2pix%208376070f7da54a6bb1a9bc73805df563.md)]**
 - **CycleGAN Zhu et al. [[project](https://junyanz.github.io/CycleGAN/)][[summary](Paper%20Study%2068e3ebe9fd7a4c5698dd326b5ac62910/CycleGAN%20(Unsupervised)%20d62c159362424283a87f650643492498/CycleGAN_summary%20b64f9f84a8f546049ca1690ac2cce399.md)][[notes](Paper%20Study%2068e3ebe9fd7a4c5698dd326b5ac62910/CycleGAN%20(Unsupervised)%20d62c159362424283a87f650643492498.md)]**
